@@ -1,6 +1,6 @@
 ## Hi I'm Jonathan Mecham
 ### About Me
-- I've been coding since 2016 
+- I've been coding for 8 years 
 - I'm currently learning Go and loving it
 
 
