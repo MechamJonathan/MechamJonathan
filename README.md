@@ -1,5 +1,4 @@
-# Hi I'm Jonathan
-- I've been coding for 8 years 
+### Hi I'm Jonathan
 - I'm currently learning Go and loving it
 - Favorite Languages: Go, Python, C#, Java
 - Familiar Tools: Git, Github actions, PostgreSQL, SQLite, Docker, AWS, GCS, Jira
@@ -8,10 +7,11 @@
 
 
 
-
+<!--
 <a href="https://github.com/MechamJonathan/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=MechamJonathan&hide=issues,contribs&show_icons=true&theme=transparent" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MechamJonathan&hide=issues,contribs&show_icons=true&theme=transparent" />
 </a>
+-->
 
 
 <!--
