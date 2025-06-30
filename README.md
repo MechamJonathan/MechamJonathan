@@ -1,7 +1,7 @@
 ### Hi I'm Jonathan
 - I'm currently learning JavaScript and loving it
 - Favorite Languages: Python, C#, Go
-- Familiar Tools: Git, Github actions, PostgreSQL, SQLite, Docker, AWS, GCS, Jira
+- Familiar Tools: Git, CI/CD, PostgreSQL, SQLite, Docker, AWS, GCS, Jira
 
 
 
